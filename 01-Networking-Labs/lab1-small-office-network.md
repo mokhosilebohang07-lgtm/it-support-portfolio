@@ -17,3 +17,4 @@ Build a basic office network using routers, switches, and PCs.
 
 ## Outcome:
 All devices successfully communicated within the network.
+<img width="754" height="414" alt="image" src="https://github.com/user-attachments/assets/7838210a-89bc-4f83-b54b-08626ea19799" />
