@@ -3,7 +3,7 @@
 
 # TS-02 Slow Computer
 
-```markdown
+
 # TS-02: Slow Computer Performance
 
 ## Scenario
