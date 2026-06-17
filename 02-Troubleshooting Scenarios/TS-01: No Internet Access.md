@@ -25,3 +25,9 @@ Command used:
 
 ```cmd
 ipconfig
+```
+### Step 2: Test Local Network Stack
+
+```cmd
+ping 127.168.1.0
+
