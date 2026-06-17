@@ -1,9 +1,3 @@
-
----
-
-# TS-02 Slow Computer
-
-
 # TS-02: Slow Computer Performance
 
 ## Scenario
