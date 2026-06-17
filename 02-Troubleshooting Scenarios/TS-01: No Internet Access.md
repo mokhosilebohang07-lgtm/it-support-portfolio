@@ -83,7 +83,12 @@ Commands Used:
 ipconfig /flushdns
 ipconfig /renew
 ```
+<img width="1365" height="115" alt="image" src="https://github.com/user-attachments/assets/9d207edf-dc00-482c-a28f-0576e0e4e371" />
+
 
 ## Outcome:
 
 Internet access was restored and websites loaded successfully.
+
+<img width="1365" height="242" alt="image" src="https://github.com/user-attachments/assets/e30d22e7-4a26-4f82-b765-a49ad5e504da" />
+
