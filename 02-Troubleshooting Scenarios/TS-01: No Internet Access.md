@@ -62,7 +62,8 @@ Command Used:
 ping google.com
 ```
 
-<img width="1723" height="386" alt="Screenshot 2026-06-17 160551" src="https://github.com/user-attachments/assets/fc1c5768-83fe-4a68-979a-53cd923cc7cb" />
+<img width="1357" height="72" alt="image" src="https://github.com/user-attachments/assets/5184cbfc-8f75-4067-99d5-99c31643f56c" />
+
 
 ## Tools Used:
 
